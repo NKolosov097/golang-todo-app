@@ -1,0 +1,6 @@
+# DB/Logs
+out
+
+# Environments
+.env
+.env.local
